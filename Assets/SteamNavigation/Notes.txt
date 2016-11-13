@@ -1,0 +1,6 @@
+Steam navigation is used by adding:
+Navigation.cs and ControllerModule.cs onto the [CameraRig]
+
+Scene Setup:
+After you add the scripts, Drag and drop the controllers from the 
+hierarchy to the Controller Module script
